@@ -18,3 +18,4 @@ EXPOSE 4173
 
 # Run the app
 CMD ["npm", "run", "preview"]
+
